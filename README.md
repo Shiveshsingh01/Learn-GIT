@@ -10,6 +10,8 @@ The Medical Diagnosis Assistant is a system designed to assist healthcare profes
 2. Embedding Patient Histories: Represent patient medical histories as dense embeddings for similarity-based retrieval and contextual understanding.
 3. RAG-Powered Diagnosis: Use a Retrieval-Augmented Generation (RAG) pipeline to combine retrieved medical knowledge and patient-specific details to suggest potential diagnoses.
 
+![image alt](https://github.com/Shiveshsingh01/Learn-GIT/blob/182bc4087c230c52d2e9aa42434dc1bd088b024e/Screenshot%202025-01-11%20175226.png)
+
 
 
 ## Approach
