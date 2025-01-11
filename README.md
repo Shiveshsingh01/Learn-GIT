@@ -37,6 +37,9 @@ A large language model (e.g., Llama 3) is integrated to generate diagnosis sugge
 A structured prompt is crafted to guide the LLM in generating accurate and context-aware responses.
 
 
+![image alt](https://github.com/Shiveshsingh01/Learn-GIT/blob/6ebfe1f46e2ac116afd66631b4a159e7c16a5c47/Screenshot%202025-01-11%20180050.png)
+
+
 
 
 
